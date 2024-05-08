@@ -12,3 +12,5 @@
 
     ② 启动训练脚本
         sh train.sh
+
+# 3、比赛链接：https://bohrium.dp.tech/competitions/3793785610?tab=introduce
